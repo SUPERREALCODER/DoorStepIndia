@@ -1,0 +1,7 @@
+{
+  "name": "DoorStep Essentials",
+  "description": "A premium, niche-focused home service marketplace prioritizing trust, expert craftsmanship, and verified reliability for your essential home needs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
